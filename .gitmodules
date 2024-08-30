@@ -1,0 +1,3 @@
+[submodule "first-repo"]
+	path = first-repo
+	url = https://github.com/dealogikal-johnalex/first-repo
